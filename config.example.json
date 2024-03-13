@@ -1,17 +1,17 @@
 {
-	"group_target": 1527757925,
-	"group_source": 1862382526,
-	"group_source_username": "PublicSource_Chat",
-	"group_target_username": "MastiChats",
+	"group_target": -1001712169683,
+	"group_source": -1001995273599,
+	"group_source_username": "mamasabhubnongchik",
+	"group_target_username": "pekhidmatanwangajaib",
 	"from_date_active": "UserStatus.RECENTLY",
 	"auto_join": true,
 	"spam_check": true, 
 	"wait_time": 30, # sleep time
 	"accounts": [
 		{
-			"phone": "+91XXXXXXXXXX",
-			"api_id": 25194789,
-			"api_hash": "e59afe25c17585635ec031c889eb5b34"
+			"phone": "+6285282xxxxx",
+			"api_id": 26042825,
+			"api_hash": "2ec0cd4c66590cc131e1f13290023204"
 		}
 	]
 }
