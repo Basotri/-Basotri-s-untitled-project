@@ -1,4 +1,4 @@
-import asyncio
+ximport asyncio
 import json
 
 from helper.login import login, create
@@ -12,7 +12,7 @@ print(f"  {r}Telegram {w}@DearSaif {r}| Instagram: {w}@_Prince.Babu_{rs}\n")
 
 
 # load config for accounts
-config = json.load(open("config.json", "r"))
+config = json.load(open("config.example.json", "r"))
 group_source_id = str(config["group_source_username"])
 group_target_id = str(config["group_target_username"])
 auto_join = bool(config["auto_join"])
