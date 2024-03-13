@@ -6,7 +6,7 @@
 	"from_date_active": "UserStatus.RECENTLY",
 	"auto_join": true,
 	"spam_check": true, 
-	"wait_time": 30, # on time
+	"wait_time": 30,
 	"accounts": [
 		{
 			"phone": "++6285282768786",
